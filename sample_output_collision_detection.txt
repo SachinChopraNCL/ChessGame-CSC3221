@@ -1,0 +1,33 @@
+--------------------------------------------------------------------------------
+UNIT TESTING
+TESTING COLLISIONS
+TESTING SQUARE - SQUARE COLLISION (FULL OVERLAP)
+--------------------------------------------------------------------------------
+Collision Occured between Piece index 0 & 1(5,5)(5,5)
+COLLISION SUCCESSFUL
+TESTING SQUARE - SQUARE COLLISION (PARTIAL OVERLAP)
+--------------------------------------------------------------------------------
+Collision Occured between Piece index 0 & 1(3.1,5)(5,5)
+COLLISION SUCCESSFUL
+--------------------------------------------------------------------------------
+TESTING SQUARE - CIRCLE COLLISION (FULL OVERLAP)
+--------------------------------------------------------------------------------
+Collision Occured between Piece index 0 & 1(5,5)(5,5)
+COLLISION SUCCESSFUL
+--------------------------------------------------------------------------------
+Collision Occured between Piece index 0 & 1(3.1,5)(5,5)
+COLLISION SUCCESSFUL
+--------------------------------------------------------------------------------
+TESTING SQUARE - SQUARE COLLISION (FULL OVERLAP)
+--------------------------------------------------------------------------------
+Collision Occured between Piece index 0 & 1(5,5)(5,5)
+COLLISION SUCCESSFUL
+TESTING SQUARE - SQUARE COLLISION (PARTIAL OVERLAP)
+--------------------------------------------------------------------------------
+Collision Occured between Piece index 0 & 1(3.1,5)(5,5)
+COLLISION SUCCESSFUL
+TESTING SQUARE - SQUARE COLLISION (CORNER OVERLAP)
+--------------------------------------------------------------------------------
+Collision Occured between Piece index 0 & 1(3.1,6.4)(5,5)
+COLLISION SUCCESSFUL
+--------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+﻿  GameHandler.cpp
+H:\chess_coursework\chess_coursework\GameHandler.cpp(47,21): warning C4018:  '<': signed/unsigned mismatch
+H:\chess_coursework\chess_coursework\GameHandler.cpp(68,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\chess_coursework\chess_coursework\GameHandler.cpp(68,53): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\chess_coursework\chess_coursework\GameHandler.cpp(69,60): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\chess_coursework\chess_coursework\GameHandler.cpp(69,57): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\chess_coursework\chess_coursework\GameHandler.cpp(70,58): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\chess_coursework\chess_coursework\GameHandler.cpp(70,55): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\chess_coursework\chess_coursework\GameHandler.cpp(79,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\chess_coursework\chess_coursework\GameHandler.cpp(105,38): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\chess_coursework\chess_coursework\GameHandler.cpp(119,38): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\chess_coursework\chess_coursework\GameHandler.cpp(133,38): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\chess_coursework\chess_coursework\GameHandler.cpp(139,38): warning C4305:  'argument': truncation from 'double' to 'float'
+H:\chess_coursework\chess_coursework\GameHandler.cpp(140,38): warning C4305:  'argument': truncation from 'double' to 'float'
+  chess_coursework.vcxproj -> H:\chess_coursework\Debug\chess_coursework.exe
